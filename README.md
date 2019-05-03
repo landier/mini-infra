@@ -1,1 +1,1 @@
-# small-infra
+# mini-infra
